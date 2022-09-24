@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitish Tiwari</h1>
+<h1 align="center">Lazy🦥 Programmer Nitish This side🚀</h1>
 <h3 align="center">Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishupkr&label=Profile%20views&color=0e75b6&style=flat" alt="nitishupkr" /> </p>
