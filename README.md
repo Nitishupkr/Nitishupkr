@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **WEB DEVELOPMENT,JAVA,C,NETWORKING,GOLANG,LINUX,DOCKER**
 
-- 📫 How to reach me **nitishupke@gmail.com**
+- 📫 How to reach me **nitishupkr@gmail.com**
 
 - ⚡ Fun fact **I am not lazy i m very very relaxed**
 
