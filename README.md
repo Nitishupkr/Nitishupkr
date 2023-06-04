@@ -64,3 +64,8 @@ I am Nitish Tiwari, Techinical(Blockchain and DevOps) content writer at code8.I 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitishupkr&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitishupkr&theme=tokyonight" />
 </p>
+### Blogs ✏️✏️✏️
+
+- [So you want to learn DevOps?](https://nitishupkr.hashnode.dev/so-you-want-to-learn-devops)
+- [NFT(Non-Fungible Token)](https://nitishupkr.hashnode.dev/nftnon-fungible-token) 
+- [What is Lens Protocol, and how does it work?](https://nitishupkr.hashnode.dev/what-is-lens-protocol-and-how-does-it-work)
