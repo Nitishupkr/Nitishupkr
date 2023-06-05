@@ -10,7 +10,7 @@ I am Nitish Tiwari, Techinical(Blockchain and DevOps) content writer at code8.I 
 [![Youtube Badge](https://img.shields.io/badge/-Nitish%20Tiwari-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UCqPf0GAkcCf9L4Ff3paMpbQ)](https://www.youtube.com/channel/UCqPf0GAkcCf9L4Ff3paMpbQ)
 
 [![Nitish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nitishupkr&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Profile Visitors](https://komarev.com/ghpvc/?username=Nitishupkr&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Nitishupkr)
 ## ⚡ Technologies
 
 ### Language :
